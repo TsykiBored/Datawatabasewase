@@ -1,0 +1,9 @@
+Language = "python3"
+run = """
+#python3 2_D-Create.py
+#python3 Forgotten uselessnes.py
+python3 D-read.py
+python3 D-add.py
+python3 DB_TkinterGUI.py
+#python3 testywesty.py
+"""
